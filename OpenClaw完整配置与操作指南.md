@@ -252,6 +252,13 @@ openclaw --version
 
 # 健康检查
 openclaw doctor
+
+# 设置agents超时
+openclaw config set agents.defaults.llm.idleTimeoutSeconds 600
+
+# 日志
+tail -f ～/.openclaw/logs/*.log
+tail -f ~/.ollama/logs/*.log
 ```
 
 ---

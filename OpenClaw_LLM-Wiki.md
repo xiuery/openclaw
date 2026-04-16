@@ -1,4 +1,4 @@
-# OpenClaw 接入 LLM-Wiki Skill 详细文档
+# OpenClaw LLM-Wiki 指南
 
 > **项目地址**：https://github.com/sdyckjq-lab/llm-wiki-skill
 > 
