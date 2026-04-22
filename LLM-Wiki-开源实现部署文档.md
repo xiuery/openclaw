@@ -1,4 +1,4 @@
-# LLM Wiki 开源实现完整部署文档
+# LLM Wiki 开源实现部署文档
 
 > **项目地址**：https://github.com/lucasastorian/llmwiki
 > 

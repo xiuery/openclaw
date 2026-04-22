@@ -135,7 +135,7 @@ npm install -g mcporter
 编辑（或创建）：
 
 ```bash
-~/.openclaw/workspace/config/mcporter.json
+~/.mcporter/mcporter.json
 ```
 
 内容：
@@ -161,7 +161,7 @@ npm install -g mcporter
 
 ## Step 3：安装 taobao-native 官方 Skill
 
-### 3.1 安装 mcporter Skill（必需）
+### 3.1 安装 mcporter Skill【已删除｜请使用 MCP 方式替代】
 
 ```bash
 mkdir -p ~/.openclaw/workspace/skills/mcporter
@@ -349,7 +349,7 @@ Tool execution failed: navigate
 
 2. **mcporter 配置错误**
 ```json
-// 检查 ~/.openclaw/workspace/config/mcporter.json
+// 检查 ~/.mcporter/mcporter.json
 {
   "mcpServers": {
     "taobao-native": {

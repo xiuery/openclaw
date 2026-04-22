@@ -535,10 +535,10 @@ mcporter --version
 
 ```bash
 # 创建配置目录
-mkdir -p ~/.openclaw/workspace/config
+mkdir -p ~/.mcporter/
 
 # 创建配置文件
-nano ~/.openclaw/workspace/config/mcporter.json
+nano ~/.mcporter/mcporter.json
 ```
 
 ### 配置内容
@@ -559,7 +559,7 @@ nano ~/.openclaw/workspace/config/mcporter.json
 
 ## 3.5 安装 OpenClaw Skills
 
-### 安装 mcporter Skill
+### 安装 mcporter Skill【已删除｜请使用 MCP 方式替代】
 
 ```bash
 # 创建目录

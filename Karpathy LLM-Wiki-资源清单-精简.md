@@ -1,4 +1,4 @@
-# Karpathy LLM-Wiki 方案及资源
+# Karpathy LLM-Wiki 资源清单
 
 > **编写日期**：2026年4月8日
 > 
